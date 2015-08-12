@@ -6,5 +6,10 @@ therefore, I would like to share this code because instead of creating a unique 
 
 included is a client and server example
 
+example of this working on a production application
+http://lystify.miny.io/p/listMod?id=adQFwqAa6YDNgMzN8&slide=6&prod=true
+
+<img src="https://s3.amazonaws.com/f.cl.ly/items/1R0q3s302a1q0Y3n2z1N/Screen%20Shot%202015-08-11%20at%206.15.46%20PM.png">
+
 Harry Ward
 http://twitter.com/harryward05
