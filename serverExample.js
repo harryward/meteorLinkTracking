@@ -52,8 +52,7 @@ Meteor.methods({
         if (AnalyticsObject) {
             console.log('analytics object found for '+ someUniqueId,AnalyticsObject)
             var theNum = 0
-            var ThePost = Analytics.findOne(someUniqueId)
-            var totes = parseInt(Analytics.findOne(someUniqueId).pageviews)
+            var totes = parseInt(AnalyticsObject.pageviews)
 
             console.log('pageviews BEFORE ',totes)
 
